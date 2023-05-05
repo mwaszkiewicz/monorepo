@@ -1,0 +1,149 @@
+{
+  "id" : 1,
+  "name" : "Name",
+  "description" : "Description",
+  "lastModifiedDate" : "2023-05-05T11:03:37Z",
+  "properties" : {
+    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICFpZGVudGlmaWVycyBoaWVyYXJjaGljYWwKCiAgICBtb2RlbCB7CiAgICAgICAgI0VudGl0aWVzCiAgICAgICAgdXNlciA9IGVsZW1lbnQgIlVzZXIiICIiICIiICIiCgogICAgICAgICNFeHRlcm5hbCByZXNvdXJjZQogICAgICAgIGV4dGVybmFsU3lzdGVtID0gZWxlbWVudCAiRXh0ZXJuYWwgQVBJIiAiRXh0ZXJuYWwiICJEZXNjcmlwdGlvbiIgIkV4dGVybmFsIgoKICAgICAgICBNYXRjb3JlID0gZW50ZXJwcmlzZSAiTWF0Y29yZSBTb2Z0d2FyZSBTeXN0ZW1zIiB7CiAgICAgICAgICAgICNTb2Z0d2FyZSBzeXN0ZW1zCiAgICAgICAgICAgIFRyaXBNYW5hZ2VtZW50ID0gZ3JvdXAgIlRyaXAgTWFuYWdlbWVudCIgewogICAgICAgICAgICAgICAgQSA9IHNvZnR3YXJlU3lzdGVtICJTZXJ2aWNlIEEiICIiICIiCiAgICAgICAgICAgICAgICBCID0gc29mdHdhcmVTeXN0ZW0gIlNlcnZpY2UgQiIgIiIgIiIKICAgICAgICAgICAgfQoKICAgICAgICAgICAgI1JlbGF0aW9uc2hpcHMgCiAgICAgICAgICAgIGV4dGVybmFsU3lzdGVtIC0+IEEKICAgICAgICAgICAgdXNlciAtPiBCCiAgICAgICAgfQogICAgfQoKICAgIHZpZXdzIHsKICAgICAgICBzeXN0ZW1sYW5kc2NhcGUgIlN5c3RlbUxhbmRzY2FwZSIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgdGl0bGUgIlByZXNlbnQgU3lzdGVtIExhbmRzY2FwZSIKICAgICAgICB9CgogICAgICAgIHN0eWxlcyB7CiByZWxhdGlvbnNoaXAgIlJlbGF0aW9uc2hpcCIgewogICAgZm9udFNpemUgMzAKfQogZWxlbWVudCAiUGVyc29uIiB7CiAgICAgY29sb3IgI2ZmZmZmZgogICAgIGJhY2tncm91bmQgIzA3NDI3YQogICAgIGZvbnRTaXplIDI1CiAgICAgc2hhcGUgUGVyc29uCiB9CiBlbGVtZW50ICJTb2Z0d2FyZSBTeXN0ZW0iIHsKICAgICBiYWNrZ3JvdW5kICMxMjY4YmQKICAgICBjb2xvciAjZmZmZmZmCiB9CiBlbGVtZW50ICJFeHRlcm5hbCIgewogICAgIGJhY2tncm91bmQgIzU1NTU1NQogICAgIGNvbG9yICNmZmZmZmYKIH0KIGVsZW1lbnQgIkludGVybmFsIiB7CiAgICAgYmFja2dyb3VuZCAjNTU1NTU1CiAgICAgY29sb3IgI2ZmZmZmZgogfQogZWxlbWVudCAiQ29udGFpbmVyIiB7CiAgICAgYmFja2dyb3VuZCAjNDM4ZGQ1CiAgICAgY29sb3IgI2ZmZmZmZgogICAgIHNoYXBlIFJvdW5kZWRCb3gKIH0KIGVsZW1lbnQgIkdyb3VwIiB7CiAgICAgY29sb3IgIzAwMDAwMAogICAgIHNoYXBlIFJvdW5kZWRCb3gKIH0KIGVsZW1lbnQgIkRhdGFiYXNlIiB7CiAgICAgc2hhcGUgQ3lsaW5kZXIKIH0KIGVsZW1lbnQgIkNvbXBvbmVudCIgewogICAgIGJhY2tncm91bmQgIzg1YmJmMAogICAgIGNvbG9yICMwMDAwMDAKIH0KZWxlbWVudCAiV2ViQXBwIiB7CiAgICBzaGFwZSBXZWJCcm93c2VyCn0KICAgICAgICB9CiAgICB9Cn0K"
+  },
+  "configuration" : { },
+  "model" : {
+    "enterprise" : {
+      "name" : "Matcore Software Systems"
+    },
+    "softwareSystems" : [ {
+      "id" : "3",
+      "tags" : "Element,Software System,",
+      "properties" : {
+        "structurizr.dsl.identifier" : "a"
+      },
+      "name" : "Service A",
+      "group" : "Trip Management",
+      "location" : "Internal",
+      "documentation" : { }
+    }, {
+      "id" : "4",
+      "tags" : "Element,Software System,",
+      "properties" : {
+        "structurizr.dsl.identifier" : "b"
+      },
+      "name" : "Service B",
+      "group" : "Trip Management",
+      "location" : "Internal",
+      "documentation" : { }
+    } ],
+    "customElements" : [ {
+      "id" : "1",
+      "tags" : "Element,",
+      "properties" : {
+        "structurizr.dsl.identifier" : "user"
+      },
+      "name" : "User",
+      "relationships" : [ {
+        "id" : "6",
+        "tags" : "Relationship",
+        "sourceId" : "1",
+        "destinationId" : "4"
+      } ]
+    }, {
+      "id" : "2",
+      "tags" : "Element,External",
+      "properties" : {
+        "structurizr.dsl.identifier" : "externalsystem"
+      },
+      "name" : "External API",
+      "description" : "Description",
+      "relationships" : [ {
+        "id" : "5",
+        "tags" : "Relationship",
+        "sourceId" : "2",
+        "destinationId" : "3"
+      } ],
+      "metadata" : "External"
+    } ]
+  },
+  "documentation" : { },
+  "views" : {
+    "systemLandscapeViews" : [ {
+      "key" : "SystemLandscape",
+      "order" : 1,
+      "title" : "Present System Landscape",
+      "dimensions" : {
+        "width" : 1680,
+        "height" : 1467
+      },
+      "enterpriseBoundaryVisible" : true,
+      "relationships" : [ {
+        "id" : "5"
+      }, {
+        "id" : "6"
+      } ],
+      "elements" : [ {
+        "id" : "1",
+        "x" : 239,
+        "y" : 199
+      }, {
+        "id" : "2",
+        "x" : 989,
+        "y" : 199
+      }, {
+        "id" : "3",
+        "x" : 989,
+        "y" : 799
+      }, {
+        "id" : "4",
+        "x" : 239,
+        "y" : 799
+      } ]
+    } ],
+    "configuration" : {
+      "branding" : { },
+      "styles" : {
+        "elements" : [ {
+          "tag" : "Person",
+          "background" : "#07427a",
+          "color" : "#ffffff",
+          "fontSize" : 25,
+          "shape" : "Person"
+        }, {
+          "tag" : "Software System",
+          "background" : "#1268bd",
+          "color" : "#ffffff"
+        }, {
+          "tag" : "External",
+          "background" : "#555555",
+          "color" : "#ffffff"
+        }, {
+          "tag" : "Internal",
+          "background" : "#555555",
+          "color" : "#ffffff"
+        }, {
+          "tag" : "Container",
+          "background" : "#438dd5",
+          "color" : "#ffffff",
+          "shape" : "RoundedBox"
+        }, {
+          "tag" : "Group",
+          "color" : "#000000",
+          "shape" : "RoundedBox"
+        }, {
+          "tag" : "Database",
+          "shape" : "Cylinder"
+        }, {
+          "tag" : "Component",
+          "background" : "#85bbf0",
+          "color" : "#000000"
+        }, {
+          "tag" : "WebApp",
+          "shape" : "WebBrowser"
+        } ],
+        "relationships" : [ {
+          "tag" : "Relationship",
+          "fontSize" : 30
+        } ]
+      },
+      "terminology" : { },
+      "lastSavedView" : "SystemLandscape"
+    }
+  }
+}
