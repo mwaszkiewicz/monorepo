@@ -2,9 +2,9 @@
   "id" : 1,
   "name" : "Name",
   "description" : "Description",
-  "lastModifiedDate" : "2023-05-05T11:03:37Z",
+  "lastModifiedDate" : "2023-06-13T18:16:53Z",
   "properties" : {
-    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICFpZGVudGlmaWVycyBoaWVyYXJjaGljYWwKCiAgICBtb2RlbCB7CiAgICAgICAgI0VudGl0aWVzCiAgICAgICAgdXNlciA9IGVsZW1lbnQgIlVzZXIiICIiICIiICIiCgogICAgICAgICNFeHRlcm5hbCByZXNvdXJjZQogICAgICAgIGV4dGVybmFsU3lzdGVtID0gZWxlbWVudCAiRXh0ZXJuYWwgQVBJIiAiRXh0ZXJuYWwiICJEZXNjcmlwdGlvbiIgIkV4dGVybmFsIgoKICAgICAgICBNYXRjb3JlID0gZW50ZXJwcmlzZSAiTWF0Y29yZSBTb2Z0d2FyZSBTeXN0ZW1zIiB7CiAgICAgICAgICAgICNTb2Z0d2FyZSBzeXN0ZW1zCiAgICAgICAgICAgIFRyaXBNYW5hZ2VtZW50ID0gZ3JvdXAgIlRyaXAgTWFuYWdlbWVudCIgewogICAgICAgICAgICAgICAgQSA9IHNvZnR3YXJlU3lzdGVtICJTZXJ2aWNlIEEiICIiICIiCiAgICAgICAgICAgICAgICBCID0gc29mdHdhcmVTeXN0ZW0gIlNlcnZpY2UgQiIgIiIgIiIKICAgICAgICAgICAgfQoKICAgICAgICAgICAgI1JlbGF0aW9uc2hpcHMgCiAgICAgICAgICAgIGV4dGVybmFsU3lzdGVtIC0+IEEKICAgICAgICAgICAgdXNlciAtPiBCCiAgICAgICAgfQogICAgfQoKICAgIHZpZXdzIHsKICAgICAgICBzeXN0ZW1sYW5kc2NhcGUgIlN5c3RlbUxhbmRzY2FwZSIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgdGl0bGUgIlByZXNlbnQgU3lzdGVtIExhbmRzY2FwZSIKICAgICAgICB9CgogICAgICAgIHN0eWxlcyB7CiByZWxhdGlvbnNoaXAgIlJlbGF0aW9uc2hpcCIgewogICAgZm9udFNpemUgMzAKfQogZWxlbWVudCAiUGVyc29uIiB7CiAgICAgY29sb3IgI2ZmZmZmZgogICAgIGJhY2tncm91bmQgIzA3NDI3YQogICAgIGZvbnRTaXplIDI1CiAgICAgc2hhcGUgUGVyc29uCiB9CiBlbGVtZW50ICJTb2Z0d2FyZSBTeXN0ZW0iIHsKICAgICBiYWNrZ3JvdW5kICMxMjY4YmQKICAgICBjb2xvciAjZmZmZmZmCiB9CiBlbGVtZW50ICJFeHRlcm5hbCIgewogICAgIGJhY2tncm91bmQgIzU1NTU1NQogICAgIGNvbG9yICNmZmZmZmYKIH0KIGVsZW1lbnQgIkludGVybmFsIiB7CiAgICAgYmFja2dyb3VuZCAjNTU1NTU1CiAgICAgY29sb3IgI2ZmZmZmZgogfQogZWxlbWVudCAiQ29udGFpbmVyIiB7CiAgICAgYmFja2dyb3VuZCAjNDM4ZGQ1CiAgICAgY29sb3IgI2ZmZmZmZgogICAgIHNoYXBlIFJvdW5kZWRCb3gKIH0KIGVsZW1lbnQgIkdyb3VwIiB7CiAgICAgY29sb3IgIzAwMDAwMAogICAgIHNoYXBlIFJvdW5kZWRCb3gKIH0KIGVsZW1lbnQgIkRhdGFiYXNlIiB7CiAgICAgc2hhcGUgQ3lsaW5kZXIKIH0KIGVsZW1lbnQgIkNvbXBvbmVudCIgewogICAgIGJhY2tncm91bmQgIzg1YmJmMAogICAgIGNvbG9yICMwMDAwMDAKIH0KZWxlbWVudCAiV2ViQXBwIiB7CiAgICBzaGFwZSBXZWJCcm93c2VyCn0KICAgICAgICB9CiAgICB9Cn0K"
+    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICFpZGVudGlmaWVycyBoaWVyYXJjaGljYWwKCiAgICBtb2RlbCB7CiAgICAgICAgI0VudGl0aWVzCiAgICAgICAgdXNlciA9IGVsZW1lbnQgIlVzZXIiICIiICIiICIiCgogICAgICAgICNFeHRlcm5hbCByZXNvdXJjZQogICAgICAgIGdvb2dsZVBsYWNlcyA9IGVsZW1lbnQgIkdvb2dsZSBQbGFjZXMgQVBJIiAiIiAiIiAiRXh0ZXJuYWwiCgogICAgICAgIE1hdGNvcmUgPSBlbnRlcnByaXNlICJNYXRjb3JlIFNvZnR3YXJlIFN5c3RlbXMiIHsKICAgICAgICAgICAgI1NvZnR3YXJlIHN5c3RlbXMKICAgICAgICAgICAgVHJpcE1hbmFnZW1lbnQgPSBzb2Z0d2FyZVN5c3RlbSAiVHJpcCBNYW5hZ2VtZW50IiB7CiAgICAgICAgICAgICAgICBVSSA9IGNvbnRhaW5lciAiV2ViIEFwcCIgIiIgIiIgIldlYkFwcCIKICAgICAgICAgICAgICAgIEJGRiA9IGNvbnRhaW5lciAiQVBJIEdhdGV3YXkiICIiICJGYXN0aWZ5IiAiU2VydmljZSIKCiAgICAgICAgICAgICAgICBBdXRoR3JvdXAgPSBncm91cCAiQXV0aCBEb21haW4iIHsKICAgICAgICAgICAgICAgICAgICBBdXRoID0gY29udGFpbmVyICJBdXRoIiAiIiAiIiAiU2VydmljZSIKICAgICAgICAgICAgICAgICAgICBBdXRoRGIgPSBjb250YWluZXIgIkF1dGggRGF0YWJhc2UiICJtYWluIHN0b3JhZ2UgZm9yIEF1dGgiICJQb3N0Z3JlU1FMIiAiRGF0YWJhc2UiCgogICAgICAgICAgICAgICAgICAgIEF1dGggLT4gQXV0aERiCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBQbGFjZXNHcm91cCA9IGdyb3VwICJQbGFjZXMgRG9tYWluIiB7CiAgICAgICAgICAgICAgICAgICAgUGxhY2VzID0gY29udGFpbmVyICJQbGFjZXMiICIiICIiICJTZXJ2aWNlIgogICAgICAgICAgICAgICAgICAgIFBsYWNlc0RiID0gY29udGFpbmVyICJQbGFjZXMgRGF0YWJhc2UiICJtYWluIHN0b3JhZ2UgZm9yIFBsYWNlcyIgIlBvc3RncmVTUUwiICJEYXRhYmFzZSIKCiAgICAgICAgICAgICAgICAgICAgUGxhY2VzIC0+IFBsYWNlc0RiCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBSZXBvcnRpbmdHcm91cCA9IGdyb3VwICJSZXBvcnRpbmcgRG9tYWluIiB7CiAgICAgICAgICAgICAgICAgICAgUmVwb3J0aW5nID0gY29udGFpbmVyICJSZXBvcnRpbmciICIiICIiICJTZXJ2aWNlIgogICAgICAgICAgICAgICAgICAgIFJlcG9ydGluZ0RiID0gY29udGFpbmVyICJSZXBvcnRpbmcgRGF0YWJhc2UiICJtYWluIHN0b3JhZ2UgZm9yIFJlcG9ydGluZyIgIlBvc3RncmVTUUwiICJEYXRhYmFzZSIKCiAgICAgICAgICAgICAgICAgICAgUmVwb3J0aW5nIC0+IFJlcG9ydGluZ0RiCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBUcmlwR3JvdXAgPSBncm91cCAiVHJpcCBEb21haW4iIHsKICAgICAgICAgICAgICAgICAgICBUcmlwID0gY29udGFpbmVyICJUcmlwIiAiIiAiIiAiU2VydmljZSIKICAgICAgICAgICAgICAgICAgICBUcmlwRGIgPSBjb250YWluZXIgIlRyaXAgRGF0YWJhc2UiICJtYWluIHN0b3JhZ2UgZm9yIFRyaXAiICJQb3N0Z3JlU1FMIiAiRGF0YWJhc2UiCgogICAgICAgICAgICAgICAgICAgIFRyaXAgLT4gVHJpcERiCiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgI1JlbGF0aW9uc2hpcHMgCiAgICAgICAgICAgICAgICB1c2VyIC0+IFVJCiAgICAgICAgICAgICAgICBVSSAtPiBCRkYKICAgICAgICAgICAgICAgIEJGRiAtPiBBdXRoCiAgICAgICAgICAgICAgICBCRkYgLT4gUGxhY2VzCiAgICAgICAgICAgICAgICBCRkYgLT4gUmVwb3J0aW5nCiAgICAgICAgICAgICAgICBCRkYgLT4gVHJpcAoKICAgICAgICAgICAgICAgIFBsYWNlcyAtPiBnb29nbGVQbGFjZXMKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KCiAgICB2aWV3cyB7CiAgICAgICAgc3lzdGVtbGFuZHNjYXBlICJTeXN0ZW0tTGFuZHNjYXBlIiB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBhdXRvTGF5b3V0CiAgICAgICAgICAgIHRpdGxlICJQcmVzZW50IFN5c3RlbSBMYW5kc2NhcGUiCiAgICAgICAgfQogICAgICAgIHN5c3RlbUNvbnRleHQgVHJpcE1hbmFnZW1lbnQgIlN5c3RlbS1Db250ZXh0IiB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBhdXRvTGF5b3V0CiAgICAgICAgfQogICAgICAgIGNvbnRhaW5lciBUcmlwTWFuYWdlbWVudCAiU3lzdGVtLUNvbnRhaW5lcnMiIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgIGF1dG9MYXlvdXQKICAgICAgICB9CgogICAgICAgIHN0eWxlcyB7CiByZWxhdGlvbnNoaXAgIlJlbGF0aW9uc2hpcCIgewogICAgZm9udFNpemUgMzAKfQogZWxlbWVudCAiUGVyc29uIiB7CiAgICAgY29sb3IgI2ZmZmZmZgogICAgIGJhY2tncm91bmQgIzA3NDI3YQogICAgIGZvbnRTaXplIDI1CiAgICAgc2hhcGUgUGVyc29uCiB9CiBlbGVtZW50ICJTb2Z0d2FyZSBTeXN0ZW0iIHsKICAgICBiYWNrZ3JvdW5kICMxMjY4YmQKICAgICBjb2xvciAjZmZmZmZmCiB9CiBlbGVtZW50ICJFeHRlcm5hbCIgewogICAgIGJhY2tncm91bmQgIzU1NTU1NQogICAgIGNvbG9yICNmZmZmZmYKIH0KIGVsZW1lbnQgIkludGVybmFsIiB7CiAgICAgYmFja2dyb3VuZCAjNTU1NTU1CiAgICAgY29sb3IgI2ZmZmZmZgogfQogZWxlbWVudCAiQ29udGFpbmVyIiB7CiAgICAgYmFja2dyb3VuZCAjNDM4ZGQ1CiAgICAgY29sb3IgI2ZmZmZmZgogICAgIHNoYXBlIFJvdW5kZWRCb3gKIH0KIGVsZW1lbnQgIkdyb3VwIiB7CiAgICAgY29sb3IgIzAwMDAwMAogICAgIHNoYXBlIFJvdW5kZWRCb3gKIH0KIGVsZW1lbnQgIkRhdGFiYXNlIiB7CiAgICAgc2hhcGUgQ3lsaW5kZXIKIH0KIGVsZW1lbnQgIkNvbXBvbmVudCIgewogICAgIGJhY2tncm91bmQgIzg1YmJmMAogICAgIGNvbG9yICMwMDAwMDAKIH0KZWxlbWVudCAiV2ViQXBwIiB7CiAgICBzaGFwZSBXZWJCcm93c2VyCn0KICAgICAgICB9CiAgICB9Cn0K"
   },
   "configuration" : { },
   "model" : {
@@ -13,23 +13,172 @@
     },
     "softwareSystems" : [ {
       "id" : "3",
-      "tags" : "Element,Software System,",
+      "tags" : "Element,Software System",
       "properties" : {
-        "structurizr.dsl.identifier" : "a"
+        "structurizr.dsl.identifier" : "tripmanagement"
       },
-      "name" : "Service A",
-      "group" : "Trip Management",
+      "name" : "Trip Management",
+      "relationships" : [ {
+        "id" : "26",
+        "sourceId" : "3",
+        "destinationId" : "2",
+        "linkedRelationshipId" : "25"
+      } ],
       "location" : "Internal",
-      "documentation" : { }
-    }, {
-      "id" : "4",
-      "tags" : "Element,Software System,",
-      "properties" : {
-        "structurizr.dsl.identifier" : "b"
-      },
-      "name" : "Service B",
-      "group" : "Trip Management",
-      "location" : "Internal",
+      "containers" : [ {
+        "id" : "4",
+        "tags" : "Element,Container,WebApp",
+        "properties" : {
+          "structurizr.dsl.identifier" : "tripmanagement.ui"
+        },
+        "name" : "Web App",
+        "relationships" : [ {
+          "id" : "20",
+          "tags" : "Relationship",
+          "sourceId" : "4",
+          "destinationId" : "5"
+        } ],
+        "documentation" : { }
+      }, {
+        "id" : "5",
+        "tags" : "Element,Container,Service",
+        "properties" : {
+          "structurizr.dsl.identifier" : "tripmanagement.bff"
+        },
+        "name" : "API Gateway",
+        "relationships" : [ {
+          "id" : "21",
+          "tags" : "Relationship",
+          "sourceId" : "5",
+          "destinationId" : "6"
+        }, {
+          "id" : "22",
+          "tags" : "Relationship",
+          "sourceId" : "5",
+          "destinationId" : "9"
+        }, {
+          "id" : "23",
+          "tags" : "Relationship",
+          "sourceId" : "5",
+          "destinationId" : "12"
+        }, {
+          "id" : "24",
+          "tags" : "Relationship",
+          "sourceId" : "5",
+          "destinationId" : "15"
+        } ],
+        "technology" : "Fastify",
+        "documentation" : { }
+      }, {
+        "id" : "10",
+        "tags" : "Element,Container,Database",
+        "properties" : {
+          "structurizr.dsl.identifier" : "tripmanagement.placesdb"
+        },
+        "name" : "Places Database",
+        "description" : "main storage for Places",
+        "group" : "Places Domain",
+        "technology" : "PostgreSQL",
+        "documentation" : { }
+      }, {
+        "id" : "9",
+        "tags" : "Element,Container,Service",
+        "properties" : {
+          "structurizr.dsl.identifier" : "tripmanagement.places"
+        },
+        "name" : "Places",
+        "relationships" : [ {
+          "id" : "11",
+          "tags" : "Relationship",
+          "sourceId" : "9",
+          "destinationId" : "10"
+        }, {
+          "id" : "25",
+          "tags" : "Relationship",
+          "sourceId" : "9",
+          "destinationId" : "2"
+        } ],
+        "group" : "Places Domain",
+        "documentation" : { }
+      }, {
+        "id" : "16",
+        "tags" : "Element,Container,Database",
+        "properties" : {
+          "structurizr.dsl.identifier" : "tripmanagement.tripdb"
+        },
+        "name" : "Trip Database",
+        "description" : "main storage for Trip",
+        "group" : "Trip Domain",
+        "technology" : "PostgreSQL",
+        "documentation" : { }
+      }, {
+        "id" : "12",
+        "tags" : "Element,Container,Service",
+        "properties" : {
+          "structurizr.dsl.identifier" : "tripmanagement.reporting"
+        },
+        "name" : "Reporting",
+        "relationships" : [ {
+          "id" : "14",
+          "tags" : "Relationship",
+          "sourceId" : "12",
+          "destinationId" : "13"
+        } ],
+        "group" : "Reporting Domain",
+        "documentation" : { }
+      }, {
+        "id" : "13",
+        "tags" : "Element,Container,Database",
+        "properties" : {
+          "structurizr.dsl.identifier" : "tripmanagement.reportingdb"
+        },
+        "name" : "Reporting Database",
+        "description" : "main storage for Reporting",
+        "group" : "Reporting Domain",
+        "technology" : "PostgreSQL",
+        "documentation" : { }
+      }, {
+        "id" : "7",
+        "tags" : "Element,Container,Database",
+        "properties" : {
+          "structurizr.dsl.identifier" : "tripmanagement.authdb"
+        },
+        "name" : "Auth Database",
+        "description" : "main storage for Auth",
+        "group" : "Auth Domain",
+        "technology" : "PostgreSQL",
+        "documentation" : { }
+      }, {
+        "id" : "6",
+        "tags" : "Element,Container,Service",
+        "properties" : {
+          "structurizr.dsl.identifier" : "tripmanagement.auth"
+        },
+        "name" : "Auth",
+        "relationships" : [ {
+          "id" : "8",
+          "tags" : "Relationship",
+          "sourceId" : "6",
+          "destinationId" : "7"
+        } ],
+        "group" : "Auth Domain",
+        "documentation" : { }
+      }, {
+        "id" : "15",
+        "tags" : "Element,Container,Service",
+        "properties" : {
+          "structurizr.dsl.identifier" : "tripmanagement.trip"
+        },
+        "name" : "Trip",
+        "relationships" : [ {
+          "id" : "17",
+          "tags" : "Relationship",
+          "sourceId" : "15",
+          "destinationId" : "16"
+        } ],
+        "group" : "Trip Domain",
+        "documentation" : { }
+      } ],
       "documentation" : { }
     } ],
     "customElements" : [ {
@@ -40,60 +189,175 @@
       },
       "name" : "User",
       "relationships" : [ {
-        "id" : "6",
+        "id" : "18",
         "tags" : "Relationship",
         "sourceId" : "1",
         "destinationId" : "4"
+      }, {
+        "id" : "19",
+        "sourceId" : "1",
+        "destinationId" : "3",
+        "linkedRelationshipId" : "18"
       } ]
     }, {
       "id" : "2",
       "tags" : "Element,External",
       "properties" : {
-        "structurizr.dsl.identifier" : "externalsystem"
+        "structurizr.dsl.identifier" : "googleplaces"
       },
-      "name" : "External API",
-      "description" : "Description",
-      "relationships" : [ {
-        "id" : "5",
-        "tags" : "Relationship",
-        "sourceId" : "2",
-        "destinationId" : "3"
-      } ],
-      "metadata" : "External"
+      "name" : "Google Places API"
     } ]
   },
   "documentation" : { },
   "views" : {
     "systemLandscapeViews" : [ {
-      "key" : "SystemLandscape",
+      "key" : "System-Landscape",
       "order" : 1,
       "title" : "Present System Landscape",
-      "dimensions" : {
-        "width" : 1680,
-        "height" : 1467
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "TopBottom",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false
       },
       "enterpriseBoundaryVisible" : true,
       "relationships" : [ {
-        "id" : "5"
+        "id" : "26"
       }, {
-        "id" : "6"
+        "id" : "19"
       } ],
       "elements" : [ {
         "id" : "1",
-        "x" : 239,
-        "y" : 199
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "2",
-        "x" : 989,
-        "y" : 199
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "3",
-        "x" : 989,
-        "y" : 799
+        "x" : 0,
+        "y" : 0
+      } ]
+    } ],
+    "systemContextViews" : [ {
+      "key" : "System-Context",
+      "order" : 2,
+      "softwareSystemId" : "3",
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "TopBottom",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false
+      },
+      "enterpriseBoundaryVisible" : true,
+      "relationships" : [ {
+        "id" : "26"
+      }, {
+        "id" : "19"
+      } ],
+      "elements" : [ {
+        "id" : "1",
+        "x" : 0,
+        "y" : 0
+      }, {
+        "id" : "2",
+        "x" : 0,
+        "y" : 0
+      }, {
+        "id" : "3",
+        "x" : 0,
+        "y" : 0
+      } ]
+    } ],
+    "containerViews" : [ {
+      "key" : "System-Containers",
+      "order" : 3,
+      "softwareSystemId" : "3",
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "TopBottom",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false
+      },
+      "externalSoftwareSystemBoundariesVisible" : true,
+      "relationships" : [ {
+        "id" : "18"
+      }, {
+        "id" : "17"
+      }, {
+        "id" : "25"
+      }, {
+        "id" : "14"
+      }, {
+        "id" : "24"
+      }, {
+        "id" : "11"
+      }, {
+        "id" : "23"
+      }, {
+        "id" : "22"
+      }, {
+        "id" : "8"
+      }, {
+        "id" : "21"
+      }, {
+        "id" : "20"
+      } ],
+      "elements" : [ {
+        "id" : "12",
+        "x" : 0,
+        "y" : 0
+      }, {
+        "id" : "13",
+        "x" : 0,
+        "y" : 0
+      }, {
+        "id" : "15",
+        "x" : 0,
+        "y" : 0
+      }, {
+        "id" : "16",
+        "x" : 0,
+        "y" : 0
+      }, {
+        "id" : "1",
+        "x" : 0,
+        "y" : 0
+      }, {
+        "id" : "2",
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "4",
-        "x" : 239,
-        "y" : 799
+        "x" : 0,
+        "y" : 0
+      }, {
+        "id" : "5",
+        "x" : 0,
+        "y" : 0
+      }, {
+        "id" : "6",
+        "x" : 0,
+        "y" : 0
+      }, {
+        "id" : "7",
+        "x" : 0,
+        "y" : 0
+      }, {
+        "id" : "9",
+        "x" : 0,
+        "y" : 0
+      }, {
+        "id" : "10",
+        "x" : 0,
+        "y" : 0
       } ]
     } ],
     "configuration" : {
